@@ -52,8 +52,3 @@ Os testes automatizados foram implementados para validar o processo de login na 
 - Teste de entrada com dados válidos e inválidos.
 - Verificação de mensagens de erro e sucesso.
 
-
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
